@@ -2,7 +2,9 @@ TEAM MEMBERS:
 
 Dasari Anusha (Register no:18PA1A0539)
 
-A.B.V.R.Jyothi(Register no:18PA1A0502)
+A.B.V.R.Jyothi(Register no:18PA1A0502) 
+
+V.Preethi (Register no:18PA1A1247)
 
 * THE OBJECTIVE OF THE BOT:
 
